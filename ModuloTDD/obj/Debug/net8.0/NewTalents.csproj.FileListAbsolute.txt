@@ -1,0 +1,14 @@
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\bin\Debug\net8.0\NewTalents.exe
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\bin\Debug\net8.0\NewTalents.deps.json
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\bin\Debug\net8.0\NewTalents.dll
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\bin\Debug\net8.0\NewTalents.pdb
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\obj\Debug\net8.0\NewTalents.dll
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\obj\Debug\net8.0\refint\NewTalents.dll
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\obj\Debug\net8.0\NewTalents.pdb
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\Users\THIAGO ADM\Documents\Projetos-Dio\ModuloTDD\ModuloTDD\obj\Debug\net8.0\ref\NewTalents.dll
